@@ -9,3 +9,13 @@ body {
 {
  text-align: center;
 }
+@media(min-width: 768px) {
+  .field-label-responsive {
+    padding-top: .5rem;
+    text-align: right;
+  }
+  .cardBorder{
+    border: 1px solid black;
+    padding: 3%;
+    margin: 2%;
+  }
